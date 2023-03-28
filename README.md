@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcode.card.workers.dev/komour?theme=nord&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/komour?theme=dark&font=baloo&extension=activity)
