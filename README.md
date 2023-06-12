@@ -1,3 +1,3 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/komour?theme=dark&font=Baloo%202&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/komour?theme=dark&font=Baloo%202)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komour&hide=stars,issues,contribs&theme=dark&count_private=true&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=komour&hide=stars,issues,contribs&theme=dark&count_private=true&show_icons=true) -->
